@@ -1,0 +1,47 @@
+img {
+  width: 100%;
+}
+
+#logo {
+  float: left;
+  width: 64px;
+  height: 64px;
+}
+
+#name-title {
+  float: right;
+  padding: 10px;
+  text-align: right;
+}
+
+#name {
+  font-size: 3rem;
+  font-weight: 200;
+}
+
+#title {
+  font-size: 1rem;
+  text-transform: uppercase;
+}
+
+hr {
+  background-color: #7d97ad;
+  height: 2px;
+}
+
+#featured-work {
+  color: #7d97ad;
+  font-weight: 300;
+  font-size: 2rem;
+}
+
+article > h2 {
+  color: #2d3c49;
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+
+article > a {
+  text-decoration: none;
+  color: #2d3c49;
+}
